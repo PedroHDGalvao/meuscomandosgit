@@ -1,8 +1,10 @@
-documentação git
+# Documentação Git
 
 git init: Ele inicia o arquivo ".git/" para controlar a pasta.
 
-git status: Valida o status dos arquivos modificados dentro projeto e marca arquivos modificados em vermelho
+git status: Valida o status dos arquivos modificados dentro projeto 
+  marca arquivos modificados em vermelho
+  marca em verde arquivos adicionados
 
 git add <file>: responsavel por colocar arquivo modificado em uma area segura e o marca em verde
 
