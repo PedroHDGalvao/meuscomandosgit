@@ -1,3 +1,4 @@
+documentação git
 
 git init: Ele inicia o arquivo ".git/" para controlar a pasta.
 
@@ -8,6 +9,8 @@ git add <file>: responsavel por colocar arquivo modificado em uma area segura e 
 ERROS
 git config --global user.name "seu_nome"
 git config --global user.email "seu_email@mail" 
+  POSSIVEL ERRO
+  ERRO 403 apgando a credenciais, gerenciamento de credenciais
 
 git commit -m "<texto_da_modificação">: responsavel por criar uma nova versão do projeto com as referencias do criador.
 
@@ -26,3 +29,5 @@ git clone <url>: baixa o projeto do repositorio
 git push: envia alteração para o repositorio
 
 git pull: ele puxa as alterações do repositorio
+  
+ 
