@@ -32,4 +32,4 @@ git push: envia alteração para o repositorio
 
 git pull: ele puxa as alterações do repositorio
   
- 
+ git push --set-upstream origin develop: envia-se uma nova branch para github
