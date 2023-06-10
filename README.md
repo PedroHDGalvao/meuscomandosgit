@@ -1,8 +1,10 @@
-documentação git
+# Documentação Git
 
 git init: Ele inicia o arquivo ".git/" para controlar a pasta.
 
-git status: Valida o status dos arquivos modificados dentro projeto e marca arquivos modificados em vermelho
+git status: Valida o status dos arquivos modificados dentro projeto 
+  marca arquivos modificados em vermelho
+  marca em verde arquivos adicionados
 
 git add <file>: responsavel por colocar arquivo modificado em uma area segura e o marca em verde
 
@@ -10,7 +12,7 @@ ERROS
 git config --global user.name "seu_nome"
 git config --global user.email "seu_email@mail" 
   POSSIVEL ERRO
-  ERRO 403 apgando a credenciais, gerenciamento de credenciais
+  ERRO 403 
 
 git commit -m "<texto_da_modificação">: responsavel por criar uma nova versão do projeto com as referencias do criador.
 
@@ -30,4 +32,4 @@ git push: envia alteração para o repositorio
 
 git pull: ele puxa as alterações do repositorio
   
- 
+ git push --set-upstream origin develop: envia-se uma nova branch para github
