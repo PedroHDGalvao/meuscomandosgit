@@ -8,11 +8,12 @@ git status: Valida o status dos arquivos modificados dentro projeto
 
 git add <file>: responsavel por colocar arquivo modificado em uma area segura e o marca em verde
 
-ERROS
+````
 git config --global user.name "seu_nome"
+````
 git config --global user.email "seu_email@mail" 
-  POSSIVEL ERRO
-  ERRO 403 
+configura nome e email
+ 
 
 git commit -m "<texto_da_modificação">: responsavel por criar uma nova versão do projeto com as referencias do criador.
 
