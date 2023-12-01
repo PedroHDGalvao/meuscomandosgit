@@ -28,7 +28,7 @@
 }
 
 header{
-    height: 1000000px;
+    height: 100vh;
 }
 #conjuntoBotaoLogo{
     display: flex;
